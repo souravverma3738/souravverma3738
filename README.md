@@ -9,7 +9,7 @@ I'm obsessed with writing clean code and building meaningful
 things that have real impact
 Built financial and distributed systems including a three-tier 
 retail management system and a secure bank messaging platform
-Fun fact: **I believe good engineering is about making things 
+**I believe good engineering is about making things 
 simpler, not more complicated**
 
 
